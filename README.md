@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Full Stack Dev, App Dev , Desktop App**
 
-- ⚡ Fun fact **I mind on fck my own business!**
+- ⚡ Fun fact **I mind my own fckng business!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
